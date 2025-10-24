@@ -22,4 +22,4 @@ i'm currently learning Dart + Flutter.<br>I'm a full stack developer. <br>I have
 [![](https://visitcount.itsvg.in/api?id=4kul4&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/xkulx) 
+  [![Patreon.(https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/xkulx) 
