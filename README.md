@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently learning Dart + Flutter.<br>I'm a full stack developer. <br>I have a master's degree in software engineering. <br>The main technology stacks were Python + Django.<br>I love cats😻
+i'm currently learning Dart + Flutter. <br>I'm a full stack developer. <br>I have a master's degree in software engineering. <br>The main technology stacks were Python + Django.<br>I love cats😻
 
 
 ## 🌐 Socials:
